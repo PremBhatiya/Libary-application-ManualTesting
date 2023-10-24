@@ -1,6 +1,4 @@
 # Libary-application-ManualTesting
-# Project Title
-# Excel Test Cases Repository
 
 This repository contains an Excel file with detailed test cases for a specific assignment. The test cases cover both positive and negative scenarios and are intended for use in testing a particular software application.
 
